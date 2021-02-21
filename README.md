@@ -5,7 +5,7 @@
 ## I'm a Electrical & Electronics Engineering Student 
 
 - 👨‍💻 I’m currently working on web development technologies like C, PHP, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 📚 I’m currently learning everything about engineering software tools like MATLAB, AutoCAD 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
@@ -19,13 +19,13 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 
 ### Contact with me 📝
 
 [<img align="left" alt="muhendisherif.com" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
 [<img align="left" alt="muhendisherif | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="muhendisherif | Telegram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][telegram]
+[<img align="left" alt="muhendisherif | Telegram" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/telegram-2690369-2232872.png" />][telegram]
 [<img align="left" alt="muhendisherif | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
