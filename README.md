@@ -4,7 +4,7 @@
 
 ## I'm a Electrical & Electronics Engineering Student 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies like C, PHP, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
@@ -25,7 +25,7 @@
 
 [<img align="left" alt="muhendisherif.com" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
 [<img align="left" alt="muhendisherif | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="muhendisherif | Telegram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="muhendisherif | Telegram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][telegram]
 [<img align="left" alt="muhendisherif | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
