@@ -4,7 +4,7 @@
 
 ## I'm a Electrical & Electronics Engineering Student 
 
-- 👨‍💻 I’m currently working on web development technologies like C, PHP, React etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScrpit, PHP etc.
 - 📚 I’m currently learning everything about engineering software tools like MATLAB, AutoCAD 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
