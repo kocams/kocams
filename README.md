@@ -25,7 +25,7 @@
 
 [<img align="left" alt="muhendisherif.com" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
 [<img align="left" alt="muhendisherif | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="muhendisherif | Telegram" height="30px" src="https://img.icons8.com/plasticine/2x/telegram-app.png" />][telegram]
+[<img align="left" alt="muhendisherif | Telegram" height="30px" src="https://img.icons8.com/dusk/64/000000/telegram-app.png"/>][telegram]
 [<img align="left" alt="muhendisherif | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
