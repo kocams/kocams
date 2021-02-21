@@ -56,13 +56,11 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-[website]: http://bilgehangecici.site/
+[website]: http://muhendisherif.com/
 [instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[linkedin]: https://tr.linkedin.com/in/m-said-koca-b28978186
 [Spotify]: https://open.spotify.com/user/11153360645
 
 
 ----
-Credit: [Bgstatic](https://github.com/Bgstatic)
-
-Last Edited on: 23/09/2020
+Last Edited on: 21/02/2021
