@@ -59,7 +59,7 @@
 [website]: http://muhendisherif.com/
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://tr.linkedin.com/in/m-said-koca-b28978186
-[Spotify]: https://open.spotify.com/user/11153360645
+[Spotify]: https://open.spotify.com/user/0yswspln6lpwqt8jo2t8i8o9s
 
 
 ----
