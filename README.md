@@ -56,8 +56,6 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<br/>
-
 [website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
