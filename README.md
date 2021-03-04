@@ -27,7 +27,7 @@
 [<img align="left" alt="muhendisherif | Telegram" height="30px" src="https://i.resimyukle.xyz/eLWTbJ.png"/>][telegram]
 [<img align="left" alt="muhendisherif | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
-<br />
+
 
 ---
 
