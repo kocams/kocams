@@ -49,6 +49,7 @@
 
 [website]: http://muhendisherif.com/
 [telegram]: https://t.me/Mskoca
+[discord]: https://discord.com/invite/grovestreet07
 [linkedin]: https://tr.linkedin.com/in/m-said-koca-b28978186
 [Spotify]: https://open.spotify.com/user/0yswspln6lpwqt8jo2t8i8o9s
 
