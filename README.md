@@ -23,7 +23,7 @@
 ### Contact with me 📝
 
 [<img align="left" alt="muhendisherif.com" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="muhendisherif | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="muhendisherif | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/408/408703.png"/>][linkedin]
 [<img align="left" alt="muhendisherif | Telegram" height="30px" src="https://image.flaticon.com/icons/png/512/408/408737.png"/>][telegram]
 [<img align="left" alt="muhendisherif | Discord" height="30px" src="https://image.flaticon.com/icons/png/512/356/356060.png"/>][discord]
 [<img align="left" alt="muhendisherif | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
