@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatoremspo-kocams.vercel.app/api/spotify)](https://open.spotify.com/user/0yswspln6lpwqt8jo2t8i8o9s)
+[![Spotify](https://novatoremyeni.vercel.app/api/spotify)](https://open.spotify.com/user/0yswspln6lpwqt8jo2t8i8o9s)
 
 ---
 
